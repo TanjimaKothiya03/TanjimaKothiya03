@@ -4,7 +4,7 @@
 <div class="Box-body p-4">
 <article class="markdown-body entry-content container-lg f5">
 <p dir="auto">📱 iOS App Developer - AWWARDS Winner 🏆</p>
-<p dir="auto">📊 iOS App Development: Bringing 2+ years of dedicated experience, I specialize in crafting cutting-edge mobile apps exclusively for the iOS platform. As a passionate iOS enthusiast, I strive to deliver a seamless and immersive user experience for your digital ventures.</p>
+<p dir="auto">📊 iOS App Development: Bringing 7+ years of dedicated experience, I specialize in crafting cutting-edge mobile apps exclusively for the iOS platform. As a passionate iOS enthusiast, I strive to deliver a seamless and immersive user experience for your digital ventures.</p>
 <p dir="auto">🍏 Swift and Swift-UI Expertise: Excelling in building native applications for Apple devices using Swift and Swift-UI, I meticulously adhere to Apple's design guidelines. This ensures the creation of engaging and user-friendly interfaces that leverage the full potential of the iOS ecosystem.</p>
 <p dir="auto">🌟 My Skills:</p>
 <ul dir="auto">
